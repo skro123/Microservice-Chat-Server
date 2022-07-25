@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -std=c++11 -fPIC CMakeFiles/ChatClient.dir/src/main.cpp.o -o ../bin/ChatClient  -lpthread 

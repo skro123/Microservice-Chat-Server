@@ -1,0 +1,5 @@
+/home/mdl/project/Microservice-Chat-Server/UserServer/build/CMakeFiles/edit_cache.dir
+/home/mdl/project/Microservice-Chat-Server/UserServer/build/CMakeFiles/rebuild_cache.dir
+/home/mdl/project/Microservice-Chat-Server/UserServer/build/src/CMakeFiles/ChatServer.dir
+/home/mdl/project/Microservice-Chat-Server/UserServer/build/src/CMakeFiles/edit_cache.dir
+/home/mdl/project/Microservice-Chat-Server/UserServer/build/src/CMakeFiles/rebuild_cache.dir
